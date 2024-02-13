@@ -1,3 +1,10 @@
+
+for (let i = 65; i <= 90; i++) {
+    // Convert ASCII code to character, then to lowercase, and print
+    console.log(String.fromCharCode(i).toLowerCase());
+  }
+
+
 for (let i = 1; i < 10; i++) {
     const element = i;
     console.log(element)
