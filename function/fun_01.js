@@ -1,3 +1,9 @@
+<<<<<<< HEAD
+function add(num1 ,num2){
+   return num1+num2;
+}
+console.log(add(12,12));
+=======
 function add(num1 ,num2){
    return num1+num2;
 }
@@ -33,3 +39,4 @@ function User(username="sam"){
 }
 // console.log(User())
 console.log(User("vishal")) // => argument "vishal"
+>>>>>>> e625fd4055e692376d8a120e96603dc396e36612
