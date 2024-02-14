@@ -1,0 +1,20 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: content-box;
+}
+body{
+    justify-content: center;
+    display: flex;
+    background-color: rgb(70, 113, 97);
+}
+
+
+
+.Box{
+    width: 80px;
+    height: 80px;
+    border: 1px solid black;
+    margin: 5px;
+    text-align: center;
+}
